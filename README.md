@@ -30,4 +30,4 @@ Este projeto faz parte do Desafio de Data Science do Programa ONE (Oracle Next E
 3. Para executar, basta abrir o notebook em um ambiente como o Google Colab ou Jupyter Notebook.
 
 ---
-*Projeto desenvolvido por Sueli Hora - [Link para o seu LinkedIn]*
+*Projeto desenvolvido por Sueli Hora - https://www.linkedin.com/in/sueli-da-hora/
